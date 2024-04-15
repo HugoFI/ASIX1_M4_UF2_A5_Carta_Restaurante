@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <plato tipoPlato="Ensalada">
+      <nombrePlato>Ensalada César</nombrePlato>
+      <precio>€9</precio>
+      <descripcion>Clásica ensalada César con pollo, crutones y salsa césar.</descripcion>
+      <calorias>200 kcal</calorias>
+      <caracteristicas>
+          <categoria>ensalada</categoria>
+          <categoria>carne</categoria>
+          <categoria>huevo</categoria>
+      </caracteristicas>
+      <imagen>./img/ensalada-cesar.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Ensalada">
+      <nombrePlato>Ensalada Mediterránea</nombrePlato>
+      <precio>€8</precio>
+      <descripcion>Una refrescante mezcla de aceitunas, queso feta y tomates frescos.</descripcion>
+      <calorias>150 kcal</calorias>
+      <caracteristicas>
+          <categoria>pescado</categoria>
+          <categoria>ensalada</categoria>
+      </caracteristicas>
+      <imagen>./img/ensalada-mediterranea.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Ensalada">
+      <nombrePlato>Ensalada Tropical</nombrePlato>
+      <precio>€10</precio>
+      <descripcion>Jugosa combinación de mango, aguacate y camarones.</descripcion>
+      <calorias>180 kcal</calorias>
+      <caracteristicas>
+          <categoria>pescado</categoria>
+          <categoria>fruta</categoria>
+      </caracteristicas>
+      <imagen>./img/ensalada-tropical.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Ensalada">
+      <nombrePlato>Ensalada de Quinoa</nombrePlato>
+      <precio>€7</precio>
+      <descripcion>Saludable ensalada de quinoa con pepino y tomate cherry.</descripcion>
+      <calorias>120 kcal</calorias>
+      <caracteristicas>
+          <categoria>ensalada</categoria>
+          <categoria>semillas</categoria>
+      </caracteristicas>
+      <imagen>./img/ensalada-quinoa.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Ensalada">
+      <nombrePlato>Ensalada picante de Pollo</nombrePlato>
+      <precio>€9</precio>
+      <descripcion>Pollo aderezado con especias picantes sobre lechuga romana.</descripcion>
+      <calorias>190 kcal</calorias>
+      <caracteristicas>
+          <categoria>picante</categoria>
+          <categoria>carne</categoria>
+          <categoria>ensalada</categoria>
+      </caracteristicas>
+      <imagen>./img/ensalada-picante-pollo.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+      <nombrePlato>Hamburguesa de Res</nombrePlato>
+      <precio>€12</precio>
+      <descripcion>Clásica hamburguesa con queso cheddar, lechuga y tomate.</descripcion>
+      <calorias>300 kcal</calorias>
+      <caracteristicas>
+          <categoria>carne</categoria>
+          <categoria>queso</categoria>
+          <categoria>ensalada</categoria>
+      </caracteristicas>
+      <imagen>./img/hamburguesa-res.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+    <nombrePlato>Lasaña Boloñesa</nombrePlato>
+    <precio>€13</precio>
+    <descripcion>Capas de pasta intercaladas con salsa boloñesa y queso gratinado.</descripcion>
+    <calorias>400 kcal</calorias>
+    <caracteristicas>
+        <categoria>carne</categoria>
+        <categoria>queso</categoria>
+    </caracteristicas>
+    <imagen>./img/lasana-bolonesa.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+      <nombrePlato>Steak Tártaro</nombrePlato>
+      <precio>€15</precio>
+      <descripcion>Carne de res cruda picada a mano, condimentada con alcaparras y mostaza.</descripcion>
+      <calorias>250 kcal</calorias>
+      <caracteristicas>
+        <categoria>carne</categoria>
+      </caracteristicas>
+      <imagen>./img/steak-tartaro.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+    <nombrePlato>Filete Mignon</nombrePlato>
+    <precio>€22</precio>
+    <descripcion>Jugoso filete de ternera asado a la parrilla.</descripcion>
+    <calorias>350 kcal</calorias>
+    <caracteristicas>
+        <categoria>carne</categoria>
+    </caracteristicas>
+    <imagen>./img/filete-mignon.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+      <nombrePlato>Costillas BBQ</nombrePlato>
+      <precio>€18</precio>
+      <descripcion>Costillas de cerdo asadas lentamente con salsa barbacoa casera.</descripcion>
+      <calorias>450 kcal</calorias>
+      <caracteristicas>
+          <categoria>picante</categoria>
+          <categoria>carne</categoria>
+      </caracteristicas>
+      <imagen>./img/costillas-bbq.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+    <nombrePlato>Filete de Ternera con Patatas Asadas</nombrePlato>
+    <precio>€14</precio>
+    <descripcion>Jugoso filete de ternera a la parrilla acompañado de patatas asadas al horno con romero y ajo, servido con una salsa de champiñones cremosa.</descripcion>
+    <calorias>380 kcal</calorias>
+    <caracteristicas>
+        <categoria>carne</categoria>
+    </caracteristicas>
+    <imagen>./img/filete-ternera-patatas-asadas.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Carne">
+    <nombrePlato>Arroz con Pollo al Curry</nombrePlato>
+    <precio>€12</precio>
+    <descripcion>Delicioso arroz aromatizado con especias al curry, acompañado de trozos de pollo tierno y verduras mixtas.</descripcion>
+    <calorias>320 kcal</calorias>
+    <caracteristicas>
+        <categoria>arroz</categoria>
+        <categoria>carne</categoria>
+    </caracteristicas>
+    <imagen>./img/arroz-pollo-curry.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Pescado">
+      <nombrePlato>Paella Marinera</nombrePlato>
+      <precio>€20</precio>
+      <descripcion>Auténtica paella española con una variedad de mariscos frescos.</descripcion>
+      <calorias>370 kcal</calorias>
+      <caracteristicas>
+          <categoria>marisco</categoria>
+          <categoria>arroz</categoria>
+      </caracteristicas>
+      <imagen>./img/paella-marinera.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Pescado">
+    <nombrePlato>Pulpo a la Parrilla con Patatas Bravas</nombrePlato>
+    <precio>€21</precio>
+    <descripcion>Tentáculos de pulpo tiernos y jugosos a la parrilla, acompañados de patatas bravas crujientes y salsa brava casera.</descripcion>
+    <calorias>350 kcal</calorias>
+    <caracteristicas>
+        <categoria>pescado</categoria>
+        <categoria>marisco</categoria>
+    </caracteristicas>
+    <imagen>./img/pulpo-parrilla-patatas-bravas.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Pescado">
+    <nombrePlato>Sushi Variado</nombrePlato>
+    <precio>€16</precio>
+    <descripcion>Selección de sushi fresco y variado, que incluye nigiri, maki y sashimi, acompañado de salsa de soja y wasabi.</descripcion>
+    <calorias>300 kcal</calorias>
+    <caracteristicas>
+        <categoria>pescado</categoria>
+        <categoria>arroz</categoria>
+        <categoria>marisco</categoria>
+        <categoria>picante</categoria>
+    </caracteristicas>
+    <imagen>./img/sushi-variado.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Pescado">
+    <nombrePlato>Tacos de Camarones</nombrePlato>
+    <precio>€14</precio>
+    <descripcion>Exquisitos tacos rellenos de camarones sazonados, acompañados de guarniciones frescas y salsa picante.</descripcion>
+    <calorias>290 kcal</calorias>
+    <caracteristicas>
+        <categoria>marisco</categoria>
+        <categoria>picante</categoria>
+    </caracteristicas>
+    <imagen>./img/tacos-camaron.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Pescado">
+      <nombrePlato>Salmón a la Plancha</nombrePlato>
+      <precio>€16</precio>
+      <descripcion>Salmón fresco a la plancha con un toque de limón y hierbas.</descripcion>
+      <calorias>280 kcal</calorias>
+      <caracteristicas>
+          <categoria>pescado</categoria>
+          <categoria>citrico</categoria>
+      </caracteristicas>
+      <imagen>./img/salmon-plancha.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+    <nombrePlato>Pastel de Chocolate Triple</nombrePlato>
+    <precio>€8</precio>
+    <descripcion>Irresistible pastel de chocolate con tres capas de ganache.</descripcion>
+    <calorias>400 kcal</calorias>
+    <caracteristicas>
+        <categoria>reposteria</categoria>
+        <categoria>chocolate</categoria>
+    </caracteristicas>
+    <imagen>./img/pastel-chocolate-triple.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+      <nombrePlato>Sorbet de Limón</nombrePlato>
+      <precio>€5</precio>
+      <descripcion>Refrescante sorbete de limón, perfecto para limpiar el paladar.</descripcion>
+      <calorias>90 kcal</calorias>
+      <caracteristicas>
+          <categoria>citrico</categoria>
+      </caracteristicas>
+      <imagen>./img/sorbete-limon.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+      <nombrePlato>Tiramisú</nombrePlato>
+      <precio>€6</precio>
+      <descripcion>Delicado postre italiano con mascarpone, café y cacao.</descripcion>
+      <calorias>250 kcal</calorias>
+      <caracteristicas>
+          <categoria>reposteria</categoria>
+          <categoria>chocolate</categoria>
+      </caracteristicas>
+      <imagen>./img/tiramisu.jpg</imagen>
+  </plato>
+  <plato tipoPlato="Postre">
+    <nombrePlato>Tarta de Manzana Casera</nombrePlato>
+    <precio>€7</precio>
+    <descripcion>Deliciosa tarta de manzana con una crujiente base y relleno de manzanas frescas y canela.</descripcion>
+    <calorias>280 kcal</calorias>
+    <caracteristicas>
+        <categoria>reposteria</categoria>
+        <categoria>fruta</categoria>
+    </caracteristicas>
+    <imagen>./img/tarta-manzana.jpg</imagen>
+  </plato>
+</menu>
